@@ -14,21 +14,29 @@ Falta de suministro de medicamentos
 Los encuestados que reportan el problema con los temas de salud y bienestar señalan que la problemática tiene una frecuencia  siempre que van o intentan hacer algún procedimiento como reclamar medicamentos, agendar citas médicas o ir directamente a esta cita médica, siempre se encuentran con problemas y pérdidas de tiempo indeseadas.
 
 ### La solución soñada ###
-Los encuestados proponen soluciones tales como aplicaciones que notifiquen sobre las citas médicas, la disponibilidad de medicamentos o que informen sobre el estado de una cita médica para así no hacer el proceso tan largo, tambien algun usuario desearia la funcion de gestinar la entrega de medicamentos adomicilio como alternativa.
+Los encuestados proponen soluciones tales como aplicaciones que notifiquen sobre las citas médicas, la disponibilidad de medicamentos o que informen sobre el estado de una cita médica para así no hacer el proceso tan largo, también algún usuario desearía la función de gestionar la entrega de medicamentos a domicilio como alternativa.
+
 
 ## Definición funcional ##
 ### Historia de usuario ###
 
+
     Como paciente, quiero recibir notificaciones cuando mis medicamentos estén disponibles para reclamar, para evitar desplazamientos innecesarios y pérdida de tiempo en el proceso.
+
 
     Como usuario del sistema de salud, quiero consultar el estado de mis citas médicas en tiempo real, para saber si han sido confirmadas, reprogramadas o canceladas sin tener que ir presencialmente.
 
+
     Como persona ocupada, quiero recibir recordatorios anticipados de mis citas médicas, para no olvidarlas y poder organizar mejor mi tiempo.
+
 
 ## Criterios de Aceptación ##
 
+
 El sistema debe enviar recordatorios antes de cada cita o actividad.
 
-El usuario debe poder registrar su turno o asistencia a una cita para asi no perder tiempo en filas.
 
-El sistema debe permitir visualizar la disponibiladad de medicamentos y si a si lo deseara peir un domicilio del medicamento.
+El usuario debe poder registrar su turno o asistencia a una cita para así no perder tiempo en filas.
+
+
+El sistema debe permitir visualizar la disponibilidad de medicamentos y si así lo desea pedir un domicilio del medicamento.
