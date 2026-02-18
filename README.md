@@ -2,13 +2,19 @@
 
 ## El problema ##
 ### ¿Qué duele? ###
+![Resultados de la encuesta](Eviencia\Encuesta.PNG) 
+- [Entrevista 1](Eviencia\entrevista1.m4a)
+- [Entrevista 2](Eviencia\entrevista2.m4a)
+- [Entrevista 3](Eviencia\entrevista3.m4a)
+- [Entrevista 4](Eviencia\entrevista4.m4a)
+
 El 30% de los encuestados manifiesta perder tiempo o control en temas relacionados con salud y bienestar, específicamente en:
 
-Gestión de citas médicas
+- Gestión de citas médicas
 
-Largas filas de esperas
+- Largas filas de esperas
 
-Falta de suministro de medicamentos 
+- Falta de suministro de medicamentos 
  
 ### Frecuencia ###
 Los encuestados que reportan el problema con los temas de salud y bienestar señalan que la problemática tiene una frecuencia  siempre que van o intentan hacer algún procedimiento como reclamar medicamentos, agendar citas médicas o ir directamente a esta cita médica, siempre se encuentran con problemas y pérdidas de tiempo indeseadas.
@@ -19,11 +25,11 @@ Los encuestados proponen soluciones tales como aplicaciones que notifiquen sobre
 ## Definición funcional ##
 ### Historia de usuario ###
 
-Como paciente, quiero recibir notificaciones cuando mis medicamentos estén disponibles para reclamar, para evitar desplazamientos innecesarios y pérdida de tiempo en el proceso.
+- Como paciente, quiero recibir notificaciones cuando mis medicamentos estén disponibles para reclamar, para evitar desplazamientos innecesarios y pérdida de tiempo en el proceso.
 
-Como usuario del sistema de salud, quiero consultar el estado de mis citas médicas en tiempo real, para saber si han sido confirmadas, reprogramadas o canceladas sin tener que ir presencialmente.
+- Como usuario del sistema de salud, quiero consultar el estado de mis citas médicas en tiempo real, para saber si han sido confirmadas, reprogramadas o canceladas sin tener que ir presencialmente.
 
-Como persona ocupada, quiero recibir recordatorios anticipados de mis citas médicas, para no olvidarlas y poder organizar mejor mi tiempo.
+- Como persona ocupada, quiero recibir recordatorios anticipados de mis citas médicas, para no olvidarlas y poder organizar mejor mi tiempo.
 
 ## Criterios de Aceptación ##
 
@@ -41,11 +47,11 @@ RF-02: El sistema debe permitir registrar citas médicas, tratamientos y reclama
 
 RF-03: El sistema debe enviar notificaciones automáticas sobre:
 
-recordatorios de citas médicas
+- recordatorios de citas médicas
 
-disponibilidad de medicamentos
+- disponibilidad de medicamentos
 
-cambios en el estado de una cita
+- cambios en el estado de una cita
 
 RF-04: El sistema debe mostrar el estado actualizado de las citas médicas (confirmada, pendiente, reprogramada o cancelada).
 
