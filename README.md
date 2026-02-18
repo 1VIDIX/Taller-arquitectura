@@ -40,3 +40,25 @@ El usuario debe poder registrar su turno o asistencia a una cita para así no pe
 
 
 El sistema debe permitir visualizar la disponibilidad de medicamentos y si así lo desea pedir un domicilio del medicamento.
+
+## Requisitos Funcionales ##
+
+RF-01: El sistema debe permitir el registro y autenticación de usuarios para acceder a su información de salud.
+
+RF-02: El sistema debe permitir registrar citas médicas, tratamientos y reclamación de medicamentos.
+
+RF-03: El sistema debe enviar notificaciones automáticas sobre:
+
+recordatorios de citas médicas
+
+disponibilidad de medicamentos
+
+cambios en el estado de una cita
+
+RF-04: El sistema debe mostrar el estado actualizado de las citas médicas (confirmada, pendiente, reprogramada o cancelada).
+
+RF-05: El sistema debe permitir consultar el historial de citas y procesos realizados por el usuario.
+
+RF-06: El sistema debe organizar la información en un calendario de salud para facilitar la visualización.
+
+RF-07: El sistema debe permitir visualizar requisitos previos para procedimientos (documentos, autorizaciones, etc.).
