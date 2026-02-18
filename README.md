@@ -1,4 +1,4 @@
-# PROYECTO: #
+# PROYECTO: SaludSolve #
 
 ## El problema ##
 ### ¿Qué duele? ###
@@ -20,14 +20,11 @@ Los encuestados proponen soluciones tales como aplicaciones que notifiquen sobre
 ## Definición funcional ##
 ### Historia de usuario ###
 
+Como paciente, quiero recibir notificaciones cuando mis medicamentos estén disponibles para reclamar, para evitar desplazamientos innecesarios y pérdida de tiempo en el proceso.
 
-    Como paciente, quiero recibir notificaciones cuando mis medicamentos estén disponibles para reclamar, para evitar desplazamientos innecesarios y pérdida de tiempo en el proceso.
+Como usuario del sistema de salud, quiero consultar el estado de mis citas médicas en tiempo real, para saber si han sido confirmadas, reprogramadas o canceladas sin tener que ir presencialmente.
 
-
-    Como usuario del sistema de salud, quiero consultar el estado de mis citas médicas en tiempo real, para saber si han sido confirmadas, reprogramadas o canceladas sin tener que ir presencialmente.
-
-
-    Como persona ocupada, quiero recibir recordatorios anticipados de mis citas médicas, para no olvidarlas y poder organizar mejor mi tiempo.
+Como persona ocupada, quiero recibir recordatorios anticipados de mis citas médicas, para no olvidarlas y poder organizar mejor mi tiempo.
 
 
 ## Criterios de Aceptación ##
